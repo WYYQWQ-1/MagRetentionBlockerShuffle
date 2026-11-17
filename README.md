@@ -1,3 +1,9 @@
+> **Status: waiting on upstream.** This needs a build of Mag Retention Reload that exposes the
+> `operations` hook, which is currently on Tosox's `addon-operations` branch and not released yet.
+> Until that ships, this addon loads but stays inactive.
+> 状态：等上游发布。它需要带 `operations` 钩子的 Mag Retention Reload（目前在 Tosox 的分支上未发布），
+> 在那之前本插件会加载但不生效。
+
 # Mag Retention Reload — Blocker Shuffle
 
 A small addon for [Mag Retention Reload](https://github.com/Tosox/SPT-MagRetentionReload) by **Tosox**.
